@@ -1,4 +1,3 @@
-Twinner
 Twinner is a web-based application designed to simplify and streamline the management of Twitter contests. By automating the process of gathering eligible participants and utilizing Chainlink VRF (Verifiable Random Function) for fair and transparent winner selection, Twinner ensures an efficient and enjoyable experience for contest organizers and participants alike.
 
 Table of Contents
